@@ -4,4 +4,3 @@ PRIMARY KEY(studentID));
 INSERT INTO students (studentName, email) values ("first student", "firststudent@mydbs.ie"); 
 INSERT INTO students (studentName, email) values ("second student", "secondstudent@mydbs.ie ");
 SELECT * FROM students;
-exit;
